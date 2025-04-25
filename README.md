@@ -9,14 +9,16 @@ This framework automates the selection of optimal ML models for different tasks 
 
 ## Demo
 
-If you have 5 minutes to listen to me yap about this project, here's a video:
+Please read this thorough project document:
+
+[GOOGLE DOCS LINK](https://docs.google.com/document/d/1KtNk2uNBj83iN6jiA_adCo55AlxtS2t9I3Lfu1qsCoA/edit?usp=sharing)
+
+Once you're done, If you have 5 more minutes to listen to me yap about this project, here's a video:
 
 [LOOM VIDEO](https://www.loom.com/share/d79bee5c18c14d9fbfa7ce34766347ad?sid=0fadd9cc-420d-4ede-9220-06538fd3f7e5)
 
 
-But if you don't, please read this thorough project document:
 
-[GOOGLE DOCS LINK](https://docs.google.com/document/d/1KtNk2uNBj83iN6jiA_adCo55AlxtS2t9I3Lfu1qsCoA/edit?usp=sharing)
 
 
 ## Features
