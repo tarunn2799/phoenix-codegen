@@ -3,6 +3,10 @@
 
 This framework automates the selection of optimal ML models for different tasks and generates production-ready code, significantly reducing the time and effort required for ML implementation. The project demonstrates this capability while comparing different agent-based approaches to code generation.
 
+
+![Phoenix Code Generation Framework](https://i.imgur.com/J6kz0Io.png)
+
+
 ## Demo
 
 If you have 5 minutes to listen to me yap about this project, here's a video:
